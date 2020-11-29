@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deque_Complex", "Deque_Complex\Deque_Complex.csproj", "{C2EB6981-6EE3-48E6-B872-4D1BEF14DD16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIExample", "APIExample\APIExample.csproj", "{3F6B65DD-FB95-4DA5-AB4A-B72FD7366E4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2EB6981-6EE3-48E6-B872-4D1BEF14DD16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2EB6981-6EE3-48E6-B872-4D1BEF14DD16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2EB6981-6EE3-48E6-B872-4D1BEF14DD16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2EB6981-6EE3-48E6-B872-4D1BEF14DD16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F6B65DD-FB95-4DA5-AB4A-B72FD7366E4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F6B65DD-FB95-4DA5-AB4A-B72FD7366E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F6B65DD-FB95-4DA5-AB4A-B72FD7366E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F6B65DD-FB95-4DA5-AB4A-B72FD7366E4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27A2E82C-6CDA-4A05-A9B5-A9AA8CAB97EC}
+	EndGlobalSection
+EndGlobal

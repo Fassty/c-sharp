@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\NezarkaBookstore\NezarkaBookstore\bin\Debug\NezarkaBookstore.exe.config
+C:\Users\user\source\repos\NezarkaBookstore\NezarkaBookstore\bin\Debug\NezarkaBookstore.exe
+C:\Users\user\source\repos\NezarkaBookstore\NezarkaBookstore\bin\Debug\NezarkaBookstore.pdb
+C:\Users\user\source\repos\NezarkaBookstore\NezarkaBookstore\obj\Debug\NezarkaBookstore.csprojAssemblyReference.cache
+C:\Users\user\source\repos\NezarkaBookstore\NezarkaBookstore\obj\Debug\NezarkaBookstore.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\NezarkaBookstore\NezarkaBookstore\obj\Debug\NezarkaBookstore.exe
+C:\Users\user\source\repos\NezarkaBookstore\NezarkaBookstore\obj\Debug\NezarkaBookstore.pdb
